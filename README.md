@@ -4,7 +4,7 @@ A modern, feature-rich Todo application built using React.
 This project focuses on clean UI, user experience, and real-world functionality.
 
 ## 🚀 Live Demo
-(Will be added after deployment)
+[https://swift-todo-advanced.vercel.app/](https://swift-todo-advanced.vercel.app/)
 
 ## ✨ Features
 - Add, edit, and delete todos
